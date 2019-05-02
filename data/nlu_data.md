@@ -98,14 +98,14 @@
 
 ## intent:order_quantity
 
-- [1](quantity) ширхэг
-- [2](quantity) ширхэг
-- [3](quantity) ширхэг
-- [4](quantity) ширхэг
-- [5](quantity) ширхэг
-- [1](quantity) ширхэгийг
-- [2](quantity) ширхэгийг
-- [1](quantity) ширхэг пицца
+- [нэг](quantity) ширхэг
+- [хоёр](quantity) ширхэг
+- [гурван](quantity) ширхэг
+- [дөрвөн](quantity) ширхэг
+- [таван](quantity) ширхэг
+- [зургаан](quantity) ширхэгийг
+- [долоон](quantity) ширхэгийг
+- [найман](quantity) ширхэг пицца
 
 ## intent:cancel
 
@@ -191,9 +191,22 @@
 - дунд
 - том
 
-## regex:quantity
+## lookup:quantity
 
-- [0-9]{1,}
+- нэг
+- хоёр
+- гурван
+- дөрван
+- таван
+- зургаан
+- долоон
+- найман
+- есөн
+- арван
+
+<!-- ## regex:quantity
+
+- [0-9]{1,} -->
 
 ## lookup:product
 
