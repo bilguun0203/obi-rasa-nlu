@@ -37,7 +37,7 @@ sentences = [
                       ],
         'replace': {
             '$1': ['өнөөдөр', 'маргааш', 'нөгөөдөр'],
-            '$2': ["Цэцэрлэгт", "Өлгийд", "Баянхонгорт", "Булганд", "Алтайд", "Чойрт", "Дарханд", "Сайншандад", "Чойбалсанд", "Мандалговьд", "Улиастайд", "Эрдэнэтэд", "Арвайхээрт", "Даланзадгадад", "Баруун-уртад", "Сүхбаатарт", "Зуунмодод", "Улаангомд", "Ховдод", "Мөрөнд", "Өндөрхаанд", "Улаанбаатарт"]
+            '$2': ["цэцэрлэгт", "өлгийд", "баянхонгорт", "булганд", "алтайд", "чойрт", "дарханд", "сайншандад", "чойбалсанд", "мандалговьд", "улиастайд", "эрдэнэтэд", "арвайхээрт", "даланзадгадад", "баруун-уртад", "сүхбаатарт", "зуунмодод", "улаангомд", "ховдод", "мөрөнд", "өндөрхаанд", "улаанбаатарт"]
         }
     },
     [
@@ -86,17 +86,20 @@ for sentence in sentences:
     elif type(sentence) is dict:
         for i, s in enumerate(sentence['sentences']):
             tmp_list = []
-            first_run = True
+            final_tmp_list = []
+            run = 0
             for k, elems in sentence['replace'].items():
                 for elem in elems:
-                    if first_run:
+                    if run is 0:
                         tmp_list.append(s.replace(k, elem.lower()))
                     else:
                         for ind, tmp in enumerate(tmp_list):
-                            tmp_list[ind] = tmp.replace(k, elem.lower())
-                first_run = False
-            final_list += tmp_list
-
+                            # print('1', ind, tmp, tmp_list[ind])
+                            final_tmp_list.append(tmp.replace(k, elem.lower()))
+                            # print('2', ind, tmp, tmp_list[ind])
+                run += 1
+            final_list += tmp_list if run is 1 else final_tmp_list
+# print(final_list)
 final_set = sorted(set(final_list))
 print(len(final_set))
 with open('sentences.txt', 'w') as f:
