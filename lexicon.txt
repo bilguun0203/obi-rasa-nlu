@@ -1,0 +1,115 @@
+аваад	a1 v a:0 d 
+австрали	a1 v s t r a0 L i0 
+агаар	a1 G a:0 r 
+амар	a1 m a0 r 
+арван	a1 r v a0 ng 
+африкийн	a1 f R i0 k i:0 ng 
+байна	b ay1 n a0 
+байх	b ay1 x 
+бат	b a1 t 
+болж	b o1 l w 
+болилоо	b O1 L i0 l o:0 
+боль	b O1 L 
+бэ	b e1 
+вон	v o1 ng 
+вьетнам	V e1 t n a0 m
+вэ	v e1 
+гадаа	G a1 d a:0 
+гараг	G a1 r a0 g 
+градус	g r a0 d u0 s 
+гривн	g r i0 v ng 
+гурван	G u1 r v a0 ng 
+данийн	d A1 N i:0 ng 
+динар	d i1 n a0 r 
+дирхам	d i0 r x a0 m 
+доллар	d o1 l l a0 r 
+долоо	d o1 l o:0 
+долоон	d o1 l o:0 ng 
+дон	d o1 ng 
+дунд	d u1 ng d 
+дууд	d u:1 d
+дуусга	d u:1 s G a0
+дэх	d e1 x 
+дөрвөн	d @1 r v @0 ng 
+европ	j e1 v r o0
+египетийн	j e1 g i1 p e1 t i:0 ng
+есөн	j e1 s @0 ng 
+жижиг	w i1 w i0 g 
+захиалга	z A1 X A:0 l G a0 
+захиалъя	z A1 X A:0 l j a0 
+зеланд	z e0 l a0 ng d 
+злот	z l o0 t 
+зогс	z o1 g s 
+зургаан	z u1 r G a:0 ng 
+идье	i1 d j e0 
+иен	i1 j e0 ng 
+индонез	i1 ng d o0 n e0 z 
+ир	i1 r 
+канад	k a1 n a0 d 
+крон	k r o0 ng
+кувейт	k u1 v ey0 t 
+лев	l e0 v 
+лира	l i1 r a0
+маргааш	m a1 r G a:0 S 
+мэнд	m e1 ng d 
+найман	n ay1 m a0 ng 
+непалын	n e1 p a0 L i:0 ng 
+норвегийн	n o1 r v e0 g i:0 ng 
+нэг	n e1 g 
+нөгөөдөр	n @1 g @:0 d @0 r 
+оройн	o1 r oy0 ng 
+пицца	p i1 c c a0 
+польшийн	p o1 l S i:0 ng 
+ранд	r a0 ng d 
+ринггит	r i0 ng g i0 t 
+рубль	r u1 b L 
+рупи	r u1 p i0
+сайн	s ay1 ng 
+сар	s a1 r 
+сарын	s a1 r y0 ng 
+сингапурт	s i1 ng G a0 p u0 r 
+таван	t a1 v a0 ng 
+тайвань	t ay1 v A1 N 
+тайланд	t ay1 l a0 ng d 
+том	t o1 m 
+туркийн	t u1 r k i:0 ng 
+тэнгэ	t e1 ng g e0
+тэнцэж	t e1 ng c e0 w 
+төгрөг	t @1 g r @0 g 
+төгрөгтэй	t @1 g r @0 g t ey0 
+украйны	u0 k r r ay0 n y0 
+унгарын	u1 ng G a0 r y0 ng 
+уу	u:1 
+форинт	f o1 r i0 ng t 
+франк	f r a0 ng k 
+фунт	f u1 ng t 
+хонконг	x o1 ng k o0 ng g 
+хоногийн	x o1 n o0 C i:0 ng 
+хоёр	x o1 j o0 r 
+хэд	x e1 d 
+хэдний	x e1 d n i:0 
+хэдтэй	x e1 d t ey0 
+хэдэн	x e1 d e0 ng 
+хэлээд	x e1 l e:0 d 
+хэмжээтэй	x e1 m w e:0 t ey0 
+хэмжээтэйг	x e1 m w e:0 t ey0 g 
+хүргэлт	x ^1 r g e0 l t 
+хүргээд	x ^1 r g e:0 d 
+цаг	c a1 g 
+цуцал	c u1 c a0 l 
+цуцаллаа	c u1 c a0 l l a:0 
+цэцэрлэгт	c e1 c e0 r l e0 g t 
+чех	h e1 x
+шинэ	S i1 n e0 
+ширхгийг	S i1 r x g i:0 g 
+ширхэг	S i1 r x e0 g 
+юань	j u1 A1 N 
+юу	j u:1 
+ямар	j a1 m a0 r 
+үнэтэй	^1 n e0 t ey0 
+өглөөний	@1 g l @:0 n i:0 
+өгөөч	@1 g @:0 h 
+өдрийн	@1 d r i:0 ng 
+өдөр	@1 d @0 r 
+өмнөд	@1 m n @0 d 
+өнөөдөр	@1 n @:0 d @0 r 
