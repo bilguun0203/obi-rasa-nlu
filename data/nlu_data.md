@@ -106,6 +106,8 @@
 - [зургаан](quantity) ширхгийг
 - [долоон](quantity) ширхгийг
 - [найман](quantity) ширхэг пицца
+- [есөн](quantity) ширхгийг
+- [арван](quantity) ширхгийг
 
 ## intent:cancel
 
