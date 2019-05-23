@@ -1,15 +1,22 @@
+!SIL SIL
+<UNK>	SPN 
 аваад	a1 v a:0 d 
 австрали	a1 v s t r a0 L i0 
 агаар	a1 G a:0 r 
+алтайд	a1 l t ay0 d 
 амар	a1 m a0 r 
+арвайхээрт	a1 r v ay0 x e:1 r t 
 арван	a1 r v a0 ng 
 африкийн	a1 f R i0 k i:0 ng 
 байна	b ay1 n a0 
 байх	b ay1 x 
+баруун-уртад	b a1 r u:0 ng u1 r t a0 d 
 бат	b a1 t 
+баянхонгорт	b a1 j a0 ng x o1 ng G o0 r t 
 болж	b o1 l w 
 болилоо	b O1 L i0 l o:0 
 боль	b O1 L 
+булганд	b u1 l G a0 ng d 
 бэ	b e1 
 вон	v o1 ng 
 вьетнам	V e1 t n a0 m
@@ -19,7 +26,9 @@
 градус	g r a0 d u0 s 
 гривн	g r i0 v ng 
 гурван	G u1 r v a0 ng 
+даланзадгадад	d a1 l a0 ng z a0 d G a0 d a0 d 
 данийн	d A1 N i:0 ng 
+дарханд	d a1 r x a0 ng d 
 динар	d i1 n a0 r 
 дирхам	d i0 r x a0 m 
 доллар	d o1 l l a0 r 
@@ -41,6 +50,7 @@
 злот	z l o0 t 
 зогс	z o1 g s 
 зургаан	z u1 r G a:0 ng 
+зуунмодод	z u:1 ng m o0 d o0 d 
 идье	i1 d j e0 
 иен	i1 j e0 ng 
 индонез	i1 ng d o0 n e0 z 
@@ -50,8 +60,10 @@
 кувейт	k u1 v ey0 t 
 лев	l e0 v 
 лира	l i1 r a0
+мандалговьд	m a1 ng d a0 l G O1 V d 
 маргааш	m a1 r G a:0 S 
 мэнд	m e1 ng d 
+мөрөнд	m @1 r @0 ng d 
 найман	n ay1 m a0 ng 
 непалын	n e1 p a0 L i:0 ng 
 норвегийн	n o1 r v e0 g i:0 ng 
@@ -65,9 +77,11 @@
 рубль	r u1 b L 
 рупи	r u1 p i0
 сайн	s ay1 ng 
+сайншандад	s ay1 ng S a1 ng d a0 d
 сар	s a1 r 
 сарын	s a1 r y0 ng 
 сингапурт	s i1 ng G a0 p u0 r 
+сүхбаатарт	s ^1 x b a:0 t a0 r t
 таван	t a1 v a0 ng 
 тайвань	t ay1 v A1 N 
 тайланд	t ay1 l a0 ng d 
@@ -78,11 +92,15 @@
 төгрөг	t @1 g r @0 g 
 төгрөгтэй	t @1 g r @0 g t ey0 
 украйны	u0 k r r ay0 n y0 
+улаанбаатарт	u1 l a:0 ng b a:0 t a0 r t 
+улаангомд	u1 l a:0 ng G o1 m d 
+улиастайд	U1 L A:0 s t ay0 d
 унгарын	u1 ng G a0 r y0 ng 
 уу	u:1 
 форинт	f o1 r i0 ng t 
 франк	f r a0 ng k 
 фунт	f u1 ng t 
+ховдод	x o1 v d o0 d 
 хонконг	x o1 ng k o0 ng g 
 хоногийн	x o1 n o0 C i:0 ng 
 хоёр	x o1 j o0 r 
@@ -100,9 +118,12 @@
 цуцаллаа	c u1 c a0 l l a:0 
 цэцэрлэгт	c e1 c e0 r l e0 g t 
 чех	h e1 x
+чойбалсанд	h oy1 b a0 l s a0 ng d 
+чойрт	h oy1 r t 
 шинэ	S i1 n e0 
 ширхгийг	S i1 r x g i:0 g 
 ширхэг	S i1 r x e0 g 
+эрдэнэтэд	e1 r d e0 n e0 t  e0 d 
 юань	j u1 A1 N 
 юу	j u:1 
 ямар	j a1 m a0 r 
@@ -111,5 +132,7 @@
 өгөөч	@1 g @:0 h 
 өдрийн	@1 d r i:0 ng 
 өдөр	@1 d @0 r 
+өлгийд	@1 l g i:0 d 
 өмнөд	@1 m n @0 d 
+өндөрхаанд	@1 ng d @0 r x a:0 ng d 
 өнөөдөр	@1 n @:0 d @0 r 
